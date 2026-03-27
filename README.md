@@ -89,15 +89,10 @@ json support
 Tiled/LDtk support
 
 
-
-
-
-**special thanks to:**
+### special thanks to:
 
 Maddy Thorson & Noel Berry
 
-
-
-
+***
 
 *made by plopceleste using the [LÖVE](https://www.love2d.org/) framework.*
