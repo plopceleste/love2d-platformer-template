@@ -1,4 +1,4 @@
-*this template is recommended for assetless jam games, however it could also be used for commercial games.*
+**this template is recommended for assetless jam games, however it could also be used for commercial games.**
 
 ### features:
 
@@ -86,10 +86,12 @@ json support
 
 Tiled/LDtk support
 
-##### special thanks to:
 
+**special thanks to:**
 
 Maddy Thorson & Noel Berry
 
 
-made by plopceleste using the [LÖVE](https://www.love2d.org/) framework.
+
+
+*made by plopceleste using the [LÖVE](https://www.love2d.org/) framework.*
