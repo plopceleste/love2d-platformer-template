@@ -1,3 +1,5 @@
+![gameplay gif](https://image2url.com/r2/default/gifs/1774631085329-0565b0af-fcb0-4db2-89bb-50134338f4d8.gif)
+
 **this template is recommended for assetless jam games, however it coul‌d also be used for commercial games.**
 
 ### features:
