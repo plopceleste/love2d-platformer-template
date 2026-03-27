@@ -1,6 +1,6 @@
 *this template is recommended for assetless jam games, however it could also be used for commercial games.*
 
-# features:
+### features:
 
 os auto detection for mobile vs desktop
 
@@ -62,7 +62,7 @@ dash particle bursts and continuous dash trail particles
 
 crt post processing effect
 
-## libraries used:
+### libraries used:
 
 [moonshine](https://github.com/vrld/moonshine)
 
@@ -86,7 +86,7 @@ json support
 
 Tiled/LDtk support
 
-###### special thanks to:
+##### special thanks to:
 
 
 Maddy Thorson & Noel Berry
