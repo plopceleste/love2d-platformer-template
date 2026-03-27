@@ -1,6 +1,6 @@
-this template is recommended for assetless jam games, however it could also be used for commercial games.
+**this template is recommended for assetless jam games, however it could also be used for commercial games.**
 
-features:
+###features:###
 
 os auto detection for mobile vs desktop
 
@@ -62,7 +62,7 @@ dash particle bursts and continuous dash trail particles
 
 crt post processing effect
 
-libraries used:
+###libraries used:###
 
 [moonshine](https://github.com/vrld/moonshine)
 
@@ -72,7 +72,7 @@ libraries used:
 
 [STALKER-X](https://github.com/a327ex/STALKER-X)
 
-to be added:
+###to be added:###
 
 determinism
 
@@ -86,7 +86,7 @@ json support
 
 Tiled/LDtk support
 
-special thanks to:
+**special thanks to:**
 
 
 Maddy Thorson & Noel Berry
